@@ -78,398 +78,398 @@ var simplemaps_usmap_mapdata = {
 		"HI": {
 			name: 'Hawaii',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"AK": {
 			name: 'Alaska',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"FL": {
 			name: 'Florida',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"NH": {
 			name: 'New Hampshire',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"VT": {
 			name: 'Vermont',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"ME": {
 			name: 'Maine',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"RI": {
 			name: 'Rhode Island',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"NY": {
 			name: 'New York',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"PA": {
 			name: 'Pennsylvania',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"NJ": {
 			name: 'New Jersey',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"DE": {
 			name: 'Delaware',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"MD": {
 			name: 'Maryland',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"VA": {
 			name: 'Virginia',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"WV": {
 			name: 'West Virginia',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"OH": {
 			name: 'Ohio',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"IN": {
 			name: 'Indiana',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"IL": {
 			name: 'Illinois',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"CT": {
 			name: 'Connecticut',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"WI": {
 			name: 'Wisconsin',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"NC": {
 			name: 'North Carolina',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"DC": {
 			name: 'District of Columbia',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"MA": {
 			name: 'Massachusetts',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"TN": {
 			name: 'Tennessee',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"AR": {
 			name: 'Arkansas',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"MO": {
 			name: 'Missouri',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"GA": {
 			name: 'Georgia',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"SC": {
 			name: 'South Carolina',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"KY": {
 			name: 'Kentucky',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"AL": {
 			name: 'Alabama',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"LA": {
 			name: 'Louisiana',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"MS": {
 			name: 'Mississippi',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"IA": {
 			name: 'Iowa',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"MN": {
 			name: 'Minnesota',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"OK": {
 			name: 'Oklahoma',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"TX": {
 			name: 'Texas',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"NM": {
 			name: 'New Mexico',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"KS": {
 			name: 'Kansas',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"NE": {
 			name: 'Nebraska',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"SD": {
 			name: 'South Dakota',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"ND": {
 			name: 'North Dakota',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"WY": {
 			name: 'Wyoming',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"MT": {
 			name: 'Montana',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"CO": {
 			name: 'Colorado',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"UT": {
 			name: 'Utah',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"AZ": {
 			name: 'Arizona',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"NV": {
 			name: 'Nevada',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"OR": {
 			name: 'Oregon',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"WA": {
 			name: 'Washington',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"CA": {
 			name: 'California',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		"MI": {
 			name: 'Michigan',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default'
 		},
 		"ID": {
 			name: 'Idaho',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default'
 		},
 		// Territories - Hidden unless hide is set to "no"
 		"GU": {
 			name: 'Guam',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default',
 			hide: 'yes'
 		},
 		"VI": {
 			name: 'Virgin Islands',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF5733', // Orange
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default',
 			hide: 'yes'
 		},
 		"PR": {
 			name: 'Puerto Rico',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33A1FF', // Blue
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default',
-			hide: 'yes'
+
 		},
 		"MP": {
 			name: 'Northern Mariana Islands',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#FF33A1', // Pink
+			hover_color: '#33FF57', // Complementary Green
 			url: 'default',
 			hide: 'yes'
 		},
 		"AS": {
 			name: 'American Samoa',
 			description: 'default',
-			color: 'default',
-			hover_color: 'default',
+			color: '#33FF57', // Green
+			hover_color: '#FF5733', // Complementary Orange
 			url: 'default',
 			hide: 'yes'
 		}

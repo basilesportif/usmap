@@ -26,4 +26,4 @@ const runServer = async () => {
 };
 
 runServer();
-open('http://localhost:3002/static/map1.html');
+open('http://localhost:3002/static/usmap.html');
