@@ -7,8 +7,20 @@
   <script src="js/usmap.js"></script>
 
   <style>
+    /* Default styles for desktop */
     #map {
-      height: 80%;
+      width: 120%;
+      height: auto;
+      overflow: auto;
+      margin: auto;
+    }
+
+    /* Styles for mobile devices */
+    @media (max-width: 600px) {
+      #map {
+        width: 100%;
+        max-width: none;
+      }
     }
   </style>
 </head>
