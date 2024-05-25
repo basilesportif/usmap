@@ -52,7 +52,7 @@ var simplemaps_usmap_mapdata = {
 		region_opacity: 1,
 		region_hover_opacity: .6,
 		zoom_out_incrementally: 'yes',  // if no, map will zoom all the way out on click
-		zoom_percentage: .99,
+		zoom_percentage: .75,
 		zoom_time: .5, //time to zoom between regions in seconds
 
 		//Popup settings
